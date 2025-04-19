@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @SteveJor  
+- 👨‍💻 I’m a Software Engineering Technician based in Douala, Cameroon.  
+- 👀 I’m interested in building smart digital tools that solve real-world problems, especially in maintenance management, ERP, and e-commerce.  
+- 🌱 I’m currently learning advanced concepts in Java EE, Spring Boot, and improving my skills in data analysis with Power BI.  
+- 💞️ I’m looking to collaborate on impactful open-source projects, ERP customizations (like Odoo), and web or mobile platforms using Django REST or React Native.  
+- 📫 How to reach me:  
+   - Email: nongninglele2@gmail.com  
+   - Phone: +237 654 475 292  
+   - LinkedIn: [steve-jordan-nongninglele](https://www.linkedin.com/in/steve-jordan-nongninglele-954780340)  
+   - Portfolio: [wwvf.vercel.app](https://wwvf.vercel.app)  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I love football, cinema, video games, and exploring new tech tools.  
