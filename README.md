@@ -7,6 +7,6 @@
    - Email: nongninglele2@gmail.com  
    - Phone: +237 654 475 292  
    - LinkedIn: [steve-jordan-nongninglele](https://www.linkedin.com/in/steve-jordan-nongninglele-954780340)  
-   - Portfolio: [wwvf.vercel.app](https://wwvf.vercel.app)  
+   - Portfolio: [wwvf.vercel.app](https://my-site-wwvf.vercel.app/)  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love football, cinema, video games, and exploring new tech tools.  
