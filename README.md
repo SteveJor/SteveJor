@@ -96,15 +96,12 @@ class SteveJordan:
 <p align="center">
   <img src="https://github.com/SteveJor/SteveJor/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
-
-> **Activer la snake :** crée le fichier `.github/workflows/snake.yml` — voir instructions en bas de ce README.
-
 ---
 
 ## 🚧 Currently Building
 
 - 🏢 **ERP modules** — automatisation des processus métier avec Odoo pour les entreprises africaines
-- ⚡ **High-performance REST APIs** — architectures scalables Django & Spring Boot
+- ⚡ **High-performance REST APIs** — architectres scalables Django & Spring Boot
 - 📱 **Mobile-first business apps** — solutions terrain en React Native
 - 🌍 **Digital systems for local markets** — impact réel, contexte camerounais & africain
 
@@ -168,9 +165,4 @@ class SteveJordan:
   <sub>⚡ Douala · Cameroun · Always building · Always shipping</sub>
 </p>
 
----
 
-
-Lance-le une première fois manuellement via **Actions → Run workflow**.
-
-</details>
