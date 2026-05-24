@@ -18,7 +18,7 @@
 
 ---
 
-## 👨‍💻 À propos de moi
+## À propos de moi
 
 ```python
 class SteveJordan:
@@ -44,7 +44,7 @@ class SteveJordan:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,django,java,spring,angular,react,tailwind,bootstrap&theme=dark" />
@@ -57,7 +57,7 @@ class SteveJordan:
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SteveJor&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies"/>
@@ -65,7 +65,7 @@ class SteveJordan:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=SteveJor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -85,61 +85,21 @@ class SteveJordan:
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 [![SteveJor github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SteveJor&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <img src="https://github.com/SteveJor/SteveJor/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 ---
 
-## 🚧 Currently Building
 
-- 🏢 **ERP modules** — automatisation des processus métier avec Odoo pour les entreprises africaines
-- ⚡ **High-performance REST APIs** — architectres scalables Django & Spring Boot
-- 📱 **Mobile-first business apps** — solutions terrain en React Native
-- 🌍 **Digital systems for local markets** — impact réel, contexte camerounais & africain
-
----
-
-## 🧠 Engineering Principles
-
-```
-✦  Clean Architecture        — séparer les responsabilités, pas les couches
-✦  Scalability First         — construire pour demain dès aujourd'hui
-✦  Business-Oriented Systems — le code sert le métier, pas l'inverse
-✦  API-Centric Design        — chaque service parle une langue universelle
-✦  Maintainability > Clever  — lisible par un humain dans 2 ans
-```
-
----
-
-## 🏆 Projets épinglés
-
-> *(Épingle tes meilleurs dépôts via Settings → Customize your pins)*
-
-| Projet | Description | Stack |
-|--------|-------------|-------|
-| 🔧 **[Mon portfolio](https://my-site-wwvf.vercel.app)** | Portfolio personnel fullstack | React · Tailwind |
-| 🏢 **ERP Odoo Integration** | Module personnalisé Odoo | Python · Odoo |
-| 📡 **REST API Starter** | Boilerplate Django REST API | Django · PostgreSQL |
-| 📱 **Mobile App** | Application React Native | React Native |
-
----
-
-## 💡 Ma philosophie
-
-> *"Un bon système d'information n'est pas celui qui fait le plus de choses —*
-> *c'est celui qui fait les bonnes choses. Proprement. Fiablement. Durablement."*
-
----
-
-## 🌐 Me retrouver
+## Me retrouver
 
 <p align="left">
   <a href="https://my-site-wwvf.vercel.app" target="_blank">
